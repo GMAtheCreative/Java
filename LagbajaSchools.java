@@ -16,16 +16,11 @@ public class LagbajaSchools{
 
 		System.out.println("Entering scores for student 1");
 
-		int [] subjectTheyOffer = new [numberOfStudent];
-		int [] score = new [subjectTheyOffer];
-		
-
-		for(int counter = 0; counter <= numberOfStudent; counter++){
-
-			for(int count = 0; count <= subjectTheyOffer;  count++){
-				
-			}
+		for(int counter = numberOfStudent; counter <= subjectTheyOffer; counter++){
+			System.out.print("me" + "");
 		}
+
+
 		
 	}
 }
