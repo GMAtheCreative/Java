@@ -22,16 +22,16 @@ public class Account {
         return balance;
     }
 
-    public double deposit(double amount, String pin) {
-        if (checkPin(pin)) {
+    public double deposit(double amount) {
+        if (checkPin(this.pin)) {
             if (amount >= 1.0) {
                 balance += amount;
             }
         }
         return balance;
     }
-    public double withdraw(double amount, String pin) {
-        if (checkPin(pin)) {
+    public double withdraw(double amount) {
+        if (checkPin(this.pin)) {
             if (amount >= 100.0 && amount <= balance) {
                 balance -= amount;
             }

@@ -18,22 +18,22 @@ public class AccountTest {
 
     @Test
     public void newAccount_depositOfPositiveWasMade(){
-        account.deposit(1000.0, "1234");
+        account.deposit(1000.0);
         assertEquals(2000.0, account.getBalance());
     }
     @Test
     public void newAccount_withdrawalOfPositiveWasMade(){
-        account.withdraw(100.0, "1234");
+        account.withdraw(100.0);
         assertEquals(900.0, account.getBalance());
     }
     @Test
     public void newAccount_depositOfNegativeWasMade(){
-        account.deposit(-1000.0, "1234");
+        account.deposit(-1000.0);
         assertEquals(1000.0, account.getBalance());
     }
     @Test
     public void newAccount_withdrawalOfNegativeWasMade(){
-        account.withdraw(-100.0, "123");
+        account.withdraw(-100.0);
         assertEquals(1000.0, account.getBalance());
     }
 
