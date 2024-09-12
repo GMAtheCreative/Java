@@ -1,4 +1,9 @@
+
 ### IntelliJ IDEA ###
+.DS_Store
+*Enumproject.iml
+*.iml
+*Test/
 out/
 Test/
 .idea/
@@ -28,6 +33,3 @@ bin/
 .vscode/
 
 ### Mac OS ###
-.DS_Store
-Enumproject.iml
-.iml

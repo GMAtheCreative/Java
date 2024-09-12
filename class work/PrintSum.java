@@ -1,0 +1,35 @@
+import java.util.Scanner;
+public class PrintSum{
+	public static void main(String [] args){
+
+		Scanner collect = new Scanner(System.in);
+
+		System.out.println("Enter score 1");
+		int num1 = collect.nextInt();
+		System.out.println("Enter score 2");
+		int num2 = collect.nextInt();
+		System.out.println("Enter score 3");
+		int num3 = collect.nextInt();
+		System.out.println("Enter score 4");
+		int num4 = collect.nextInt();
+		System.out.println("Enter score 5");
+		int num5 = collect.nextInt();
+		System.out.println("Enter score 6");
+		int num6 = collect.nextInt();
+		System.out.println("Enter score 7");
+		int num7 = collect.nextInt();
+		System.out.println("Enter score 8");
+		int num8 = collect.nextInt();
+		System.out.println("Enter score 9");
+		int num9 = collect.nextInt();
+		System.out.println("Enter score 10");
+		int num10 = collect.nextInt();
+
+		int sum = num1 + num2 + num3 + num4 + num5 + num6 + num7 + num8 + num9 + num10;
+		double average = sum / 10;
+
+		System.out.printf("sum is %d %nAverage is %.1f", sum, average);
+			
+	}
+
+}
