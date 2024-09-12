@@ -9,7 +9,7 @@ public enum GeoPoliticalZone {
     South_West("Ekiti, Lagos, Osun, Ondo, Ogun, Oyo.");
 
     private final String States;
-    private GeoPoliticalZone(String States) {
+    GeoPoliticalZone(String States) {
         this.States = States;
     }
     public String getStates() {
