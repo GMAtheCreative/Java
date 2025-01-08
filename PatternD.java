@@ -4,7 +4,7 @@ public class PatternD{
 
 		for(int row = 1; row <= 6; row++){
 			for(int column = 1; column <= row; column++){
-				System.out.print("* ");
+				System.out.print("  ");
 			}
 			for(int right = row; right <= 6; right++){
 				System.out.print("* ");

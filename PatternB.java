@@ -1,6 +1,6 @@
 public class PatternB{
 	public static void main(String [] args){
-		System.out.println("PATTERN A");
+		System.out.println("PATTERN B");
 
 		for(int row = 1; row <= 6; row++){
 			for(int column = row; column <= 6; column++){
