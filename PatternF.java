@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 public class PatternF{
 	public static void main(String [] args){
 		System.out.println("PATTERN F");
@@ -16,4 +17,24 @@ public class PatternF{
 			System.out.println();
 		}
 	}
+=======
+public class PatternF{
+	public static void main(String [] args){
+		System.out.println("PATTERN F");
+
+		for(int row = 1; row <= 6; row++){
+			for(int column = row; column <= 6; column++){
+				System.out.print("  ");
+			}
+			for(int right = 1; right <= row; right++){
+				System.out.print("* ");
+			}
+			for(int right = row; right <= row; right++){
+				System.out.print("* ");
+			}
+
+			System.out.println();
+		}
+	}
+>>>>>>> 50de994c495377abf8463a1fa6587df1b4de112a
 }
