@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="186bbf90-0f81-432c-9e0f-0bae37c7a2e9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../projects/diary/src/data/repositories/Repositories.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../projects/diary/src/data/repositories/Repositories.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projects/diary/src/data/repositories/RepositoriesImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../projects/diary/src/data/repositories/RepositoriesImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projects/diary/test/data/repositories/DiaryRepositriesImplTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projects/diary/test/data/repositories/EntryRepositoriesImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../projects/diary/test/data/repositories/RepositoriesImplTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Sui Move File" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../projects/diary" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;GMAtheCreative&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/GMAtheCreative/chibuzo.git&quot;,
+    &quot;accountId&quot;: &quot;dc0e8be9-7293-4cc6-8b9e-d5a74991ac04&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2ns1vk5mkXGJv90RMAmgflXMrRa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;JUnit.DiaryTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DiaryTest.testThatDefaultDiaryIsUnlocked.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DiaryTest.testThatDiaryCanBeLocked.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DiaryTest.testThatDiaryCanBeUnlocked.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.EntryRepositoriesImplTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.EntryRepositoriesImplTest.testThatCanDeleteById.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.EntryRepositoriesImplTest.testThatCanFindEntryById.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.EntryRepositoriesImplTest.testThatEntriesCanBeCreated.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.EntryRepositoriesImplTest.testThatEntriesCanBeUpdated.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.EntryRepositoriesImplTest.testThatEntrySavedCanBeDeleted.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.EntryRepositoriesImplTest.testToAddAllEntries.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.EntryRepositoriesImplTest.testToCheckIfEntryExistById.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.EntryRepositoriesImplTest.testToFindAllEntriesByDiaryId.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.EntryRepositoriesimplTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.EntryRepositoriesimplTest.testThatCanGetEntry.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.EntryRepositoriesimplTest.testThatEntryCanBeAdded.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.EntryRepositoriesimplTest.testThatEntryCanBeRemoved.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.EntryRepositoriesimplTest.testThatEntryCanBeUpdated.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.EntryRepositoriesimplTest.testThatEntryCreatedIsEmpty.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.EntryRepositoriesimplTest.testThatEntryUpdatedHasSameId.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.EntryRepositoriesimplTest.testThatMultipleEntriesCanBeAdded.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserRepositriesImplTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserRepositriesImplTest.testToDeleteUser.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserRepositriesImplTest.testToFindUser.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserRepositriesImplTest.testToRegisterUser.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserRepositriesImplTest.testUserCanBeLocked.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserRepositriesImplTest.testUserCanBeUpdated.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserRepositriesImplTest.testUserCreatedIsUnlocked.executor&quot;: &quot;Run&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/DELL  USER/Documents/projects&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL  USER\Documents\projects" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="data.repositories" />
+      <recent name="Diary.data.repositories" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.RepositoriesImplTest">
+    <configuration name="RepositoriesImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="diary" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data.repositories.RepositoriesImpl" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="data.repositories" />
+      <option name="MAIN_CLASS_NAME" value="data.repositories.RepositoriesImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RepositoriesImplTest.testThatCanDeleteById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="diary" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data.repositories.RepositoriesImpl" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="data.repositories" />
+      <option name="MAIN_CLASS_NAME" value="data.repositories.RepositoriesImplTest" />
+      <option name="METHOD_NAME" value="testThatCanDeleteById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RepositoriesImplTest.testToAddAllEntries" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="diary" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data.repositories.RepositoriesImpl" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="data.repositories" />
+      <option name="MAIN_CLASS_NAME" value="data.repositories.RepositoriesImplTest" />
+      <option name="METHOD_NAME" value="testToAddAllEntries" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RepositoriesImplTest.testToCheckIfEntryExistById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="diary" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data.repositories.RepositoriesImpl" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="data.repositories" />
+      <option name="MAIN_CLASS_NAME" value="data.repositories.RepositoriesImplTest" />
+      <option name="METHOD_NAME" value="testToCheckIfEntryExistById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RepositoriesImplTest.testToFindAllEntriesByDiaryId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="diary" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data.repositories.RepositoriesImpl" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="data.repositories" />
+      <option name="MAIN_CLASS_NAME" value="data.repositories.RepositoriesImplTest" />
+      <option name="METHOD_NAME" value="testToFindAllEntriesByDiaryId" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="186bbf90-0f81-432c-9e0f-0bae37c7a2e9" name="Changes" comment="" />
+      <created>1729747205294</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729747205294</updated>
+      <workItem from="1729747206900" duration="24938000" />
+      <workItem from="1729925430466" duration="10917000" />
+      <workItem from="1730137656832" duration="2982000" />
+      <workItem from="1730147050502" duration="35918000" />
+      <workItem from="1730308087650" duration="3869000" />
+      <workItem from="1730395225966" duration="9478000" />
+      <workItem from="1730633356847" duration="80000" />
+      <workItem from="1730633631418" duration="927000" />
+      <workItem from="1730719473601" duration="84000" />
+      <workItem from="1730719579249" duration="20459000" />
+      <workItem from="1731142037849" duration="3441000" />
+      <workItem from="1731167509965" duration="754000" />
+      <workItem from="1731907227897" duration="237000" />
+      <workItem from="1732080458231" duration="1285000" />
+      <workItem from="1732108336890" duration="142000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
